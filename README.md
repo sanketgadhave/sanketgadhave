@@ -1,4 +1,6 @@
-### Hello!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+<h1 align="center" >Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I'm Sanket </h1>
+<h3 align="center">🚀 A Data Engineer crafting the backbone of data-driven decisions, byte by byte.</h3>
+</br>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExOTk5ODksIm5iZiI6MTc0MTE5OTY4OSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA1VDE4MzQ0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3MTVlNDEwNmM5ZTJkNDE1MjhjYzVhYzYxY2IwZDQwNjkwOTAxZjkxMzA3MDk3M2NkMGFhNTkzYzk2MTc3YmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tmw4R6co3WJc9kT0K0b3GwWcbXCHtlsXCQAjgf811no" alt="side Gif" align="right" width="150" height="auto"/> </a>
